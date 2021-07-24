@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 0;
+
+}
+
+/* css for slider */
+.slider {
+    background-color: #FCEAE8;
+}
+
+.slider-btn {
+    background-color: #FF458F;
+    border: none;
+    outline: none;
+    padding: 10px;
+}
+
+.price {
+    color: #FF458F;
+}
+
+.shoe {
+    background-color: #4289FF !important;
+}
+
+.bag {
+    background-color: #FF589B !important;
+}
+
+main {
+    background-color: #F4F4F4;
+}
+.subscription{
+    height: 455px;
+}
